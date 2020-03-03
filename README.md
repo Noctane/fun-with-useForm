@@ -1,6 +1,6 @@
 Basic login form example with React hooks
 
-## `npm install`
+### `npm install`
 
 To install required dependencies.
 
